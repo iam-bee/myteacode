@@ -1,0 +1,2 @@
+# myteacode
+say hi
