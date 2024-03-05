@@ -1,2 +1,0 @@
-# myteacode
-say hi
